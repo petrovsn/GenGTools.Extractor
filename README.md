@@ -16,6 +16,6 @@ For example:
 
 RATIO - parameter for splitting training set into the training dataset and test dataset
 
-tracks.fasta - output fasta file with tracks
+tracks.fasta - output fasta file
 
-tracks_len - length of the tracks
+tracks_len - length of the output sequences
