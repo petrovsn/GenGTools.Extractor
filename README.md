@@ -7,9 +7,9 @@ Usage: GenGTools-extractor.py input_graph.fastg<STRING> reference.fasta<STRING> 
 
 input_graph.fastg - .fastg-file, created, for example, with SPAdes assembler.
 
-reference.fasta - linear genome of clothest species
+reference.fasta - linear genome of the clothest species
 
-CDS.fasta - CDS-sequences of clothest species with ncbi-specified header
+CDS.fasta - CDS-sequences of closest species with ncbi-specified header
 
 For example:
   >lcl|NT_033779.5_cds_NP_787955.2_1 [gene=CG11023] [locus_tag=Dmel_CG11023] [db_xref=FLYBASE:FBpp0289914,GeneID:33155] [protein=uncharacterized protein, isoform C] [protein_id=NP_787955.2] [location=join(7680..8116,8193..8589,8668..9276)] [gbkey=CDS]
